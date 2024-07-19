@@ -1,11 +1,11 @@
 const firstName: string='Tananaphat'
 let Y :number = 10
 Y = 20
-let อยากกลับบ้าน:boolean=false
+let isComeHome:boolean=false
 
 console.log(Y)
 console.log(firstName)
-console.log(อยากกลับบ้าน)
+console.log(isComeHome)
 
 const a: number =1
 const b: number =2
